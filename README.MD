@@ -145,3 +145,12 @@ This table captures the details of each product included in an order, such as th
 
 ## Design my APIs using OpenAPI specification
 [Design link](https://app.swaggerhub.com/apis/nabilaothman/Assi1/1.0.0#/)
+
+## How to run the application 
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Build the application using Maven.
+4. Run the application using the appropriate command.
+5. Access the application through a web browser or API client.
+
+
